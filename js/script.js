@@ -8,4 +8,7 @@ slide.init();
 // slide.activePrevSlide();
 
 slide.addArrow(".prev", ".next");
+
+slide.addControl();
+
 console.log(slide);
